@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    height: 80%;
+    width: 100%;
+}
+
+#coordinates {
+    padding: 10px;
+    background: #fff;
+    text-align: center;
+}
+
+#coordinates label {
+    margin: 0 5px;
+}
+
+#coordinates input {
+    margin: 0 5px;
+    width: 150px;
+}
